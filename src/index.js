@@ -30,8 +30,8 @@ window.onload = function(){
       let alpha = 200 
       let beta_x = 250 
       let beta_y = 250 
-      let gamma = 5
-      let delta = 3
+      let gamma = 1
+      let delta = 1
       let cos = Math.cos
       let sin = Math.sin
 
